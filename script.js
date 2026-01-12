@@ -9,7 +9,7 @@ function fectorial(num){
 console.log(fectorial(18));
 
 
-//with while loop
+//with using the while loop
 
 
 // function fectiorial(num){
