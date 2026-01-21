@@ -28,7 +28,7 @@ console.log(fectorial(18));
 
 
 
-//with prompt
+//with prompt alert on the screen 
 
 // function fectorial(num){
 //     let result = 1;
